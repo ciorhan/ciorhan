@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm [Florin Ciorhan]
 
-<!--
-**ciorhan/ciorhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack developer focused on TypeScript, Node.js, Fastify, 
+PostgreSQL, React, and Next.js.
 
-Here are some ideas to get you started:
+Currently building real projects and transitioning into 
+professional software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I'm working on:**
+- REST API with Fastify and PostgreSQL
+- Fullstack job board app (Next.js + Node.js)
+- Appointment Booking SaaS 
+
+**Stack:**
+TypeScript · Node.js · Fastify · PostgreSQL · React · Next.js · Docker
+
+**Contact:** contact@ciorhan.dev
