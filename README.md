@@ -1,4 +1,4 @@
-## Hi, I'm [Florin Ciorhan]
+## Hi, I'm Florin Ciorhan
 
 Fullstack developer focused on TypeScript, Node.js, Fastify, 
 PostgreSQL, React, and Next.js.
